@@ -1,4 +1,4 @@
-## Welcome to Zero Noise Classroom
+## Zero Noise Classroom
 
 We are currently under active development.
 
